@@ -61,7 +61,7 @@ with:
   anotherInput: optional
 ```
 
-### Using outputs
+### Using outputs##########
 
 Show people how to use your outputs in another action.
 
